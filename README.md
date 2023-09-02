@@ -21,7 +21,7 @@ git clone https://github.com/ibr03/tcp-server-cs-client.git
 2. Navigate to the project directory:
 
 ```
-cd betacrew-exchange-clien
+cd betacrew-exchange-client
 ```
 
 3. Open the betacrewExchangeClient.csproj file in your preferred C# development environment (e.g., Visual Studio, Visual Studio Code).
@@ -46,7 +46,7 @@ node main.js
 dotnet run
 ```
 
-6. The client will connect to the server, stream data packets, process responses, and generate a JSON file named packetData.json in the project directory.
+6. The client will connect to the server, stream data packets, process responses, and generate a JSON file named packetData.json in the project directory. For reference, I have included the packetData.json that was created when I ran the project on my local machine.
 
 ## Project Structure
 
